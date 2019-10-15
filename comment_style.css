@@ -1,0 +1,49 @@
+textarea
+{
+	width:500px;
+	height:100px;
+	border:1px solid silver;
+	border-radius:5px;
+	font-size:17px;
+	padding:10px;
+	font-family:helvetica;
+}
+input[type="text"]
+{
+	width:500px;
+	height:35px;
+	border:1px solid silver;
+	margin-top:10px;
+	border-radius:5px;
+	font-size:17px;
+	padding:10px;
+	font-family:helvetica;
+}
+.comment_div
+{
+	width:500px;
+	background-color:white;
+	margin-top:10px;
+	text-align:left;
+}
+.comment_div .name
+{
+	height:30px;
+	line-height:30px;
+	padding:10px;
+	background-color:grey;
+	color:white;
+	text-align:left;
+}
+.comment_div .comment
+{
+	padding:10px;
+}
+.comment_div .time
+{
+	font-style:italic;
+	padding:10px;
+	background-color:grey;
+	color:white;
+	text-align:left;
+}
